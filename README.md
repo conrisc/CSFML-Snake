@@ -1,4 +1,5 @@
 # Snake
 [CSFML] Snake
 
-![menu](conrisc.github.com/CSFML-Snake/img/SC-menu.jpg)
+![menu](img/SC-menu.jpg)
+![play](img/SC-play.jpg)
