@@ -1,0 +1,898 @@
+# depslib dependency file v1.0
+1422815613 source:c:\users\conris\desktop\snakec\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<SFML/System.h>
+	<SFML/Window.h>
+	<SFML/Graphics.h>
+	<stdbool.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1374386550 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\config.h
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\types.h
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\types.h
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/View.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\types.h
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1370104888 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+
+1365230191 c:\users\conris\desktop\snakec\csfml-2.1\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1422481296 source:c:\users\conris\desktop\snakec\resources.rc
+
+1422796482 source:c:\users\conris\desktop\dasd\snakec\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<SFML/System.h>
+	<SFML/Window.h>
+	<SFML/Graphics.h>
+	<stdbool.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1374386550 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\config.h
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\types.h
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\types.h
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/View.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\types.h
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1370104888 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+
+1365230191 c:\users\conris\desktop\dasd\snakec\csfml-2.1\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1422481296 source:c:\users\conris\desktop\dasd\snakec\resources.rc
+
+1422481296 source:f:\programowanie\c\csfml\snakec\resources.rc
+
+1424126450 source:f:\programowanie\c\csfml\snakec\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<SFML/System.h>
+	<SFML/Window.h>
+	<SFML/Graphics.h>
+	<stdbool.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1374386550 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\config.h
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\types.h
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\types.h
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/View.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\types.h
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1370104888 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+
+1365230191 f:\programowanie\c\csfml\snakec\csfml-2.1\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
